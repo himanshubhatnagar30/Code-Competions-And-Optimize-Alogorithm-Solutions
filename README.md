@@ -1,1 +1,1 @@
-# Algo
+# algorithms and competition code
